@@ -7,6 +7,9 @@ canvas {
   background: #eee;
   display: block;
   margin: 0 auto;
+}
+
+#myCanvas {
   width: 480px;
   height: 320px;
 }
